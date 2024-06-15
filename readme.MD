@@ -1,8 +1,7 @@
-## 👋 Olá, meu nome é <strong>{Lucas Gabriell}!</strong>
+## 👋 Olá, meu nome é <strong>{Dominique Albuquerque}!</strong>
 
 - 💻 Eu sou Desenvolvedor Frontend; 
-- 💼 Atualmente em contrato CLT pela G4F, prestando serviço para o Poder Judiciário de Alagoas - TJAL;
-- 📚 Cursando Sistemas de Informação - 8° Período - Estácio;
+- 📚 Graduado em Análise e Desenvolvimento de Sistema
 
 ---
 
