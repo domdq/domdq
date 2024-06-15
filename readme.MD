@@ -1,0 +1,37 @@
+## 👋 Olá, meu nome é <strong>{Lucas Gabriell}!</strong>
+
+- 💻 Eu sou Desenvolvedor Frontend; 
+- 💼 Atualmente em contrato CLT pela G4F, prestando serviço para o Poder Judiciário de Alagoas - TJAL;
+- 📚 Cursando Sistemas de Informação - 8° Período - Estácio;
+
+---
+
+## 🚀 Minhas Skills
+
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgabriell97&theme=dracula&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/Gurupreet">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgabriell97&show_icons=true&theme=dracula&line_height=27" alt="Lucas Gabriell github stats"/>
+</a>
+
+---
+
+## 🌎 Onde me encontrar
+
+[![Linkedin: Lucas Gabriell Sarmento](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-gabriell-sarmento-702331190/)](https://www.linkedin.com/in/lucas-gabriell-sarmento-702331190/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucas.gabriell97@hotmail.com)](mailto:lucas.gabriell97@hotmail.com)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/5582987119343)](https://wa.me/5582987119343)
+[![GitHub Lucas Gabriell](https://img.shields.io/github/followers/lucasgabriell97?label=follow&style=social)](https://github.com/lucasgabriell97)
