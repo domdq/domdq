@@ -45,7 +45,7 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=domdq&show_icons=true&theme=neon"
+    srcset="https://github-readme-stats.vercel.app/api?username=domdq&show_icons=true&theme=moltack"
     media="(prefers-color-scheme: dark)"
   />
   <source
