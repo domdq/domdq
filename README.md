@@ -56,5 +56,9 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
   />
   <img src="https://github-readme-stats.vercel.app/api?username=domdq&show_icons=true" />
 </picture>
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domdq&layout=compact)
   
 
