@@ -43,19 +43,14 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="">
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=domdq&show_icons=true&theme=codeSTACKr"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=domdq&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=domdq&show_icons=true" />
-</picture>
+<br>
 
-
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=domdq&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=domdq&layout=compact&langs_count=8&card_width=320" />
+</a>
   
 
