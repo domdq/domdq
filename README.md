@@ -10,5 +10,11 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 <h3> Contato </h3>
 
 <a href="https://www.linkedin.com/in/dominique-albuquerque-98823b228/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="" style="margin-top:8px;">
+</a>
+
+<br>
+
+<a href="https://www.instagram.com/domdq_dev/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="">
 </a>
