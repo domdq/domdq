@@ -43,8 +43,7 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 
 <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="">
 
-<br>
-
+<p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=domdq&show_icons=true&theme=codeSTACKr"
@@ -60,5 +59,6 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=domdq&layout=compact)
-  
+</p>
+
 
