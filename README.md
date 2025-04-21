@@ -9,9 +9,6 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 
 <h3> Contato </h3>
 
-<UL>
-  <li> Linkedin </li>
-  <li> Instagram </li>
-  <li> WhatsApp </li>
-  <li> Gmail </li>
-</UL>
+<a href="https://www.linkedin.com/in/dominique-albuquerque-98823b228/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+</a>
