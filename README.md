@@ -18,3 +18,16 @@ Este é o espaço onde passo a maior parte do meu tempo, onde a imaginação e a
 <a href="https://www.instagram.com/domdq_dev/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="">
 </a>
+
+<br>
+
+<a href="https://wa.me/qr/2DI6W4VJLBZTD1">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="">
+</a>
+
+<br>
+
+<a href="domborgesbr2468@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="">
+</a>
+
